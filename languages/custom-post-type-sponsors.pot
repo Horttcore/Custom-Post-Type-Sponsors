@@ -1,0 +1,271 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-28 15:24+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: classes/custom-post-type-sponsors.admin.php:49
+msgid "Information"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.admin.php:73
+msgid "URL"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.admin.php:101
+#: classes/custom-post-type-sponsors.admin.php:104
+msgid "Sponsor updated."
+msgstr ""
+
+#. %s: date and time of the revision
+#: classes/custom-post-type-sponsors.admin.php:106
+#, php-format
+msgid "Sponsor restored to revision from %s"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.admin.php:107
+msgid "Sponsor published."
+msgstr ""
+
+#: classes/custom-post-type-sponsors.admin.php:108
+msgid "Sponsor saved."
+msgstr ""
+
+#: classes/custom-post-type-sponsors.admin.php:109
+msgid "Sponsor submitted."
+msgstr ""
+
+#: classes/custom-post-type-sponsors.admin.php:110
+#, php-format
+msgid "Sponsor scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: classes/custom-post-type-sponsors.admin.php:110
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.admin.php:111
+msgid "Sponsor draft updated."
+msgstr ""
+
+#: classes/custom-post-type-sponsors.admin.php:119
+msgid "View sponsor"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.admin.php:125
+msgid "Preview sponsor"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.php:70
+msgctxt "post type general name"
+msgid "Sponsors"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.php:71
+msgctxt "post type singular name"
+msgid "Sponsor"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.php:72
+msgctxt "Sponsor"
+msgid "Add New"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.php:73
+msgid "Add New Sponsor"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.php:74
+msgid "Edit Sponsor"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.php:75
+msgid "New Sponsor"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.php:76
+msgid "View Sponsor"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.php:77
+msgid "View Sponsors"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.php:78
+msgid "Search Sponsors"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.php:79
+msgid "No Sponsors found"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.php:80
+msgid "No Sponsors found in Trash"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.php:81
+msgid "Parent Sponsor:"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.php:82
+msgid "All Sponsors"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.php:83
+msgid "Sponsor Archives"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.php:84
+msgid "Sponsor Attributes"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.php:85
+msgid "Insert into sponsor"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.php:86
+msgid "Uploaded to this sponsor"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.php:87
+msgid "Featured Image"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.php:88
+msgid "Set featured image"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.php:89
+msgid "Remove featured image"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.php:90
+msgid "Use as featured image"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.php:91
+msgid "Filter sponsors list"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.php:92
+msgid "Sponsors list navigation"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.php:93
+msgid "Sponsors list"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.php:101
+msgctxt "Sponsors slug"
+msgid "sponsors"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.php:129
+msgctxt "taxonomy general name"
+msgid "Sponsor Categories"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.php:130
+msgctxt "taxonomy singular name"
+msgid "Sponsor Category"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.php:131
+msgid "Search Sponsor Categories"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.php:132
+msgid "Popular Sponsor Categories"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.php:133
+msgid "All Sponsor Categories"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.php:134
+msgid "Parent Sponsor Category"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.php:135
+msgid "Parent Sponsor Category:"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.php:136
+msgid "Edit Sponsor Category"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.php:137
+msgid "View Sponsor Category"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.php:138
+msgid "Update Sponsor Category"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.php:139
+msgid "Add New Sponsor Category"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.php:140
+msgid "New Sponsor Category Name"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.php:141
+msgid "Separate sponsor categories with commas"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.php:142
+msgid "Add or remove sponsor categories"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.php:143
+msgid "Choose from the most used sponsor categories"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.php:144
+msgid "No sponsor categories found"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.php:145
+msgid "No sponsor categories"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.php:146
+msgid "Sponsor Categories list navigation"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.php:147
+msgid "Sponsor Categories list"
+msgstr ""
+
+#: classes/custom-post-type-sponsors.php:153
+msgctxt "Slug"
+msgid "sponsor-category"
+msgstr ""
+
+#. Name of the plugin
+msgid "Custom Post Type Sponsors"
+msgstr ""
+
+#. Description of the plugin
+msgid "Manage sponsors"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://horttcore.de"
+msgstr ""
+
+#. Author of the plugin
+msgid "Ralf Hortt"
+msgstr ""

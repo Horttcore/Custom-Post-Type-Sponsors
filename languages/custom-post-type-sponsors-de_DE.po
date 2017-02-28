@@ -1,0 +1,270 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Post Type Sponsors\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-28 15:24+0000\n"
+"PO-Revision-Date: 2017-02-28 15:27+0000\n"
+"Last-Translator: Horttcore <me@horttcore.de>\n"
+"Language-Team: German\n"
+"Language: de-DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: classes/custom-post-type-sponsors.php:101
+msgctxt "Sponsors slug"
+msgid "sponsors"
+msgstr "sponsoren"
+
+#: classes/custom-post-type-sponsors.php:132
+msgid "Popular Sponsor Categories"
+msgstr "Beliebte Sponsoren-Kategorien"
+
+#: classes/custom-post-type-sponsors.php:137
+msgid "View Sponsor Category"
+msgstr "Sponsor-Kategorie ansehen."
+
+#: classes/custom-post-type-sponsors.php:141
+msgid "Separate sponsor categories with commas"
+msgstr "Sponsoren-Kategorien durch Kommas trennen."
+
+#: classes/custom-post-type-sponsors.php:142
+msgid "Add or remove sponsor categories"
+msgstr "Sponsoren-Kategorien hinzufügen oder entfernen"
+
+#: classes/custom-post-type-sponsors.php:143
+msgid "Choose from the most used sponsor categories"
+msgstr "Wähle aus den meistgenutzten Sponsoren-Kategorien"
+
+#: classes/custom-post-type-sponsors.php:144
+msgid "No sponsor categories found"
+msgstr "Keine Sponsoren-Kategorien gefunden."
+
+#: classes/custom-post-type-sponsors.php:145
+msgid "No sponsor categories"
+msgstr "Keine Sponsoren-Kategorien"
+
+#: classes/custom-post-type-sponsors.php:146
+msgid "Sponsor Categories list navigation"
+msgstr "Navigation der Sponsoren-Kategorienliste"
+
+#: classes/custom-post-type-sponsors.php:147
+msgid "Sponsor Categories list"
+msgstr "Sponsoren-Kategorienliste"
+
+#: classes/custom-post-type-sponsors.admin.php:49
+msgid "Information"
+msgstr "Informationen"
+
+#: classes/custom-post-type-sponsors.admin.php:73
+msgid "URL"
+msgstr "URL"
+
+#: classes/custom-post-type-sponsors.admin.php:101
+#: classes/custom-post-type-sponsors.admin.php:104
+msgid "Sponsor updated."
+msgstr "Sponsor aktualisiert."
+
+#. %s: date and time of the revision
+#: classes/custom-post-type-sponsors.admin.php:106
+#, php-format
+msgid "Sponsor restored to revision from %s"
+msgstr "Sponsor aus Revision vom %s wiederhergestellt."
+
+#: classes/custom-post-type-sponsors.admin.php:107
+msgid "Sponsor published."
+msgstr "Sponsor veröffentlicht."
+
+#: classes/custom-post-type-sponsors.admin.php:108
+msgid "Sponsor saved."
+msgstr "Sponsor gespeichert."
+
+#: classes/custom-post-type-sponsors.admin.php:109
+msgid "Sponsor submitted."
+msgstr "Sponsor abgeschickt."
+
+#: classes/custom-post-type-sponsors.admin.php:110
+#, php-format
+msgid "Sponsor scheduled for: <strong>%1$s</strong>."
+msgstr "Sponsor geplant für %s."
+
+#: classes/custom-post-type-sponsors.admin.php:110
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: classes/custom-post-type-sponsors.admin.php:111
+msgid "Sponsor draft updated."
+msgstr "Sponsorentwurf aktualisiert."
+
+#: classes/custom-post-type-sponsors.admin.php:119
+msgid "View sponsor"
+msgstr "Sponsor ansehen"
+
+#: classes/custom-post-type-sponsors.admin.php:125
+msgid "Preview sponsor"
+msgstr "Sponsor-Vorschau"
+
+#: classes/custom-post-type-sponsors.php:70
+msgctxt "post type general name"
+msgid "Sponsors"
+msgstr "Sponsoren"
+
+#: classes/custom-post-type-sponsors.php:71
+msgctxt "post type singular name"
+msgid "Sponsor"
+msgstr "Sponsor"
+
+#: classes/custom-post-type-sponsors.php:72
+msgctxt "Sponsor"
+msgid "Add New"
+msgstr "Erstellen"
+
+#: classes/custom-post-type-sponsors.php:73
+msgid "Add New Sponsor"
+msgstr "Neuen Sponsor erstellen"
+
+#: classes/custom-post-type-sponsors.php:74
+msgid "Edit Sponsor"
+msgstr "Neuer Sponsor"
+
+#: classes/custom-post-type-sponsors.php:75
+msgid "New Sponsor"
+msgstr "Neuer Sponsor"
+
+#: classes/custom-post-type-sponsors.php:76
+msgid "View Sponsor"
+msgstr "Sponsor ansehen"
+
+#: classes/custom-post-type-sponsors.php:77
+msgid "View Sponsors"
+msgstr "Sponsoren ansehen"
+
+#: classes/custom-post-type-sponsors.php:78
+msgid "Search Sponsors"
+msgstr "Sponsoren durchsuchen"
+
+#: classes/custom-post-type-sponsors.php:79
+msgid "No Sponsors found"
+msgstr "Keine Sponsoren gefunden."
+
+#: classes/custom-post-type-sponsors.php:80
+msgid "No Sponsors found in Trash"
+msgstr "Keine Sponsoren im Papierkorb gefunden."
+
+#: classes/custom-post-type-sponsors.php:81
+msgid "Parent Sponsor:"
+msgstr "Übergeordnete Sponsor:"
+
+#: classes/custom-post-type-sponsors.php:82
+msgid "All Sponsors"
+msgstr "Alle Sponsoren"
+
+#: classes/custom-post-type-sponsors.php:83
+msgid "Sponsor Archives"
+msgstr "Sponsor-Archive"
+
+#: classes/custom-post-type-sponsors.php:84
+msgid "Sponsor Attributes"
+msgstr "Sponsor-Attribute"
+
+#: classes/custom-post-type-sponsors.php:85
+msgid "Insert into sponsor"
+msgstr "In den Sponsor einfügen"
+
+#: classes/custom-post-type-sponsors.php:86
+msgid "Uploaded to this sponsor"
+msgstr "Zu diesem Sponsor hochgeladen"
+
+#: classes/custom-post-type-sponsors.php:87
+msgid "Featured Image"
+msgstr "Logo"
+
+#: classes/custom-post-type-sponsors.php:88
+msgid "Set featured image"
+msgstr "Logo festlegen"
+
+#: classes/custom-post-type-sponsors.php:89
+msgid "Remove featured image"
+msgstr "Logo entfernen"
+
+#: classes/custom-post-type-sponsors.php:90
+msgid "Use as featured image"
+msgstr "Als Logo nutzen"
+
+#: classes/custom-post-type-sponsors.php:91
+msgid "Filter sponsors list"
+msgstr "Sponsorenliste filtern"
+
+#: classes/custom-post-type-sponsors.php:92
+msgid "Sponsors list navigation"
+msgstr "Navigation der Sponsorliste"
+
+#: classes/custom-post-type-sponsors.php:93
+msgid "Sponsors list"
+msgstr "Sponsorenliste"
+
+#: classes/custom-post-type-sponsors.php:129
+msgctxt "taxonomy general name"
+msgid "Sponsor Categories"
+msgstr "Sponsoren-Kategorien"
+
+#: classes/custom-post-type-sponsors.php:130
+msgctxt "taxonomy singular name"
+msgid "Sponsor Category"
+msgstr "Sponsoren-Kategorie"
+
+#: classes/custom-post-type-sponsors.php:131
+msgid "Search Sponsor Categories"
+msgstr "Sponsoren-Kategorien suchen"
+
+#: classes/custom-post-type-sponsors.php:133
+msgid "All Sponsor Categories"
+msgstr "Alle Sponsoren-Kategorien"
+
+#: classes/custom-post-type-sponsors.php:134
+msgid "Parent Sponsor Category"
+msgstr "Übergeordnete Sponsoren-Kategorie"
+
+#: classes/custom-post-type-sponsors.php:135
+msgid "Parent Sponsor Category:"
+msgstr "Übergeordnete Sponsoren-Kategorie:"
+
+#: classes/custom-post-type-sponsors.php:136
+msgid "Edit Sponsor Category"
+msgstr "Sponsoren-Kategorie bearbeiten"
+
+#: classes/custom-post-type-sponsors.php:138
+msgid "Update Sponsor Category"
+msgstr "Sponsoren-Kategorie aktualisieren."
+
+#: classes/custom-post-type-sponsors.php:139
+msgid "Add New Sponsor Category"
+msgstr "Neue Sponsoren-Kategorie erstellen"
+
+#: classes/custom-post-type-sponsors.php:140
+msgid "New Sponsor Category Name"
+msgstr "Neuer Sponsoren-Kategoriename"
+
+#: classes/custom-post-type-sponsors.php:153
+msgctxt "Slug"
+msgid "sponsor-category"
+msgstr "sponsoren-kategorie"
+
+#. Name of the plugin
+msgid "Custom Post Type Sponsors"
+msgstr "Custom Post Type Sponsoren"
+
+#. Description of the plugin
+msgid "Manage sponsors"
+msgstr "Sponsoren verwalten"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://horttcore.de"
+msgstr "https://horttcore.de"
+
+#. Author of the plugin
+msgid "Ralf Hortt"
+msgstr "Ralf Hortt"
